@@ -19,3 +19,8 @@
   border-radius: 4px;
 }
 
+@font-face {
+  font-family: 'CascadiaMonoPL';
+  font-display: swap;
+  src: url('/fonts/CascadiaMonoPL.ttf') format("truetype");  
+}
